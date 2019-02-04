@@ -73,4 +73,13 @@ export const WISHLIST_STORAKE_KEY = 'vtexwishlists'
 //   }
 // }
 // export default WishList
-export default () => (<p>oi</p>)
+
+export default class Bla extends Component {
+    render () {
+        return (
+            <span>
+                This is the my-list
+            </span>
+        )
+    }
+}

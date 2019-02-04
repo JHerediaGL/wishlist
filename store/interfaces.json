@@ -1,5 +1,5 @@
 {
-    "list-detail": {
-        "component": "ListDetail"
+    "my-list": {
+        "component": "index"
     }
 }
