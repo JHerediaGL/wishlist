@@ -1,4 +1,4 @@
 {
-  "product-details > add-to-list-btn#product-details": "add-to-list-btn.wishlist",
-  "product-summary > add-to-list-btn#product-summary": "add-to-list-btn.wishlist"
+  "product-details > vtex.product-details:add-btn": "add-btn.wishlist",
+  "product-summary > vtex.product-summary:add-btn": "add-btn.wishlist"
 }
